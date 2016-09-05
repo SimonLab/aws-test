@@ -1,0 +1,24 @@
+{
+  "name": "aws-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonLab/aws-test.git"
+  },
+  "author": "SimonLab <simon@foundersandcoders.com> (https://github.com/SimonLab)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimonLab/aws-test/issues"
+  },
+  "homepage": "https://github.com/SimonLab/aws-test#readme",
+  "dependencies": {
+    "hapi": "^15.0.3",
+    "hoek": "^4.0.2"
+  }
+}
